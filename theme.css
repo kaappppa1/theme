@@ -1,9 +1,3 @@
-/*
-Versão: 1.0
-@mairinkdev - on github ;) (https://github.com/mairinkdev)
-"Serial Experiments Lain - Always connected"
-*/
-
 :root {
     --text-primary: #ffffff;
     --accent-blue: #00a2ff;
@@ -843,3 +837,4 @@ button {
     border: none;
     font-family: inherit;
 }
+
